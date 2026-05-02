@@ -1,5 +1,8 @@
 # Bokutobi Canon
 # 嘘告白されてみんなの前でバラされたので、僕は屋上から飛びたった
+## English Title
+"I Was Publicly Accused and Exposed, So I Jumped from the Rooftop"
+
 ## 日本語
 
 このリポジトリは、本作品の**公式・正史（canonical）版**を収録したものです。
