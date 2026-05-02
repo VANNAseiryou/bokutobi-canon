@@ -1,4 +1,4 @@
-# Yomeuwa Canon
+# Bokutobi Canon
 
 ## 日本語
 
